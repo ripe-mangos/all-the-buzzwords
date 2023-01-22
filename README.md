@@ -1,2 +1,10 @@
-# all-the-buzzwords
-Autonomous quantum machine learning electric scooters but on the blockchain
+
+# All the Buzzwords
+
+An effort to collect tech buzzwords
+
+## Contribute
+
+ - All words go in `BUZZWORDS.txt`
+ - One word per line
+ - Words must be lowercase

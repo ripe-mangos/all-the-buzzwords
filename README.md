@@ -1,6 +1,8 @@
 
 # All the Buzzwords
 
+![](https://img.shields.io/tokei/lines/github/ripe-mangos/all-the-buzzwords?label=buzzwords)
+
 An effort to collect tech buzzwords
 
 ## Contribute
